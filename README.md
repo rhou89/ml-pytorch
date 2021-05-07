@@ -16,6 +16,7 @@ A good online notebook service is [Colab](https://colab.research.google.com/note
 A GPU computing support is desirable here as the training may take much longer if you play with CPUs. 
 ## Learning path:
 1. [Logistic_Regression.ipynb](Logistic_Regression.ipynb): MNIST datasets and basic PyTorch operations to build a logistic regression model. Accuracy: 0.903
+    - See [Broadcasting.ipynb](others/Broadcasting.ipynb) and [Vectorization.ipynb](others/Vectorization.ipynb) to learn some tricks with vectors in Python.
 2. [Logistic_Regression_OOD.ipynb](Logistic_Regression_OOD.ipynb): Building a logistic regression model with PyTorch in an object-oriented design (OOD) manner. Accuracy: 0.903
 3. [MultiLayer-Perceptron.ipynb](MultiLayer-Perceptron.ipynb): One hidden layer with 500 nodes. Accuracy: 0.925
 4. [Image-RGB_channels.ipynb](Image-RGB_channels.ipynb): Simple examples of input and output of images.
