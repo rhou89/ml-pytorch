@@ -1,5 +1,5 @@
 # the MNIST datasets
-datasets/
+datasets/MNIST
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
